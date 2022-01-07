@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "relative-imports-react-scripts",
   "version": "5.0.0",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Version of Create React App where relative imports are possible out of the src/ directroy.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/burakgazi/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=14.0.0"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/burakgazi/create-react-app/issues"
   },
   "files": [
     "bin",
